@@ -1,0 +1,9 @@
+Luis Inacio-2
+Jair Bolsonaro-0
+PresBranco-0
+PresNulo-0
+;
+Eduardo Leite-2
+Onyx Lorenzoni-0
+GovBranco-0
+GovNulo-0

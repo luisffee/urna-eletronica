@@ -1,0 +1,57 @@
+Tela Iniciação
+
+
+WHILE botão encerra * NÃO * for apertado
+   WHILE C != 1
+       Texto Presidente DRAW()
+        Numeros DRAW()
+        IF Numero == Candidato 1 or 2
+           CandidatoInfo DRAW()
+        IF botão branco for apertado
+           Salva 'branco'
+            Texto Voto Branco
+            c = 1
+        ELIF botão confirma for apertado
+            IF Nulo ou Valido
+            Salva Numeros
+            Numeros UNDRAW()
+            TRY
+               CandidatoInfo UNDRAW()
+            c = 1
+        ELIF botão corrige for apertado
+           Numeros UNDRAW()
+            PASS
+        Texto Presidente UNDRAW()
+
+    WHILE d != 1
+       Texto Governador DRAW()
+        Numeros DRAW()
+        IF Numero == Candidato 1 or 2
+           CandidatoInfo DRAW()
+        IF botão branco for apertado
+           Salva 'branco'
+           Texto Voto Branco
+           d = 1
+        ELIF botão confirma for apertado
+            IF Nulo ou Valido
+            Salva Numeros
+            Numeros UNDRAW()
+            TRY
+               CandidatoInfo UNDRAW()
+            d = 1
+        ELIF botão corrige for apertado
+           Numeros UNDRAW()
+            PASS
+        Texto Governador UNDRAW()
+
+Tela senha
+
+WHILE senha estiver * INCORRETA*
+
+   TRY Numeros UNDRAW()
+
+    Numeros DRAW()
+
+Contagem Votos
+
+FECHA janela
